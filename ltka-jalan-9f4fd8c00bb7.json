@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ltka-jalan",
+  "private_key_id": "9f4fd8c00bb75fce8b11837a5e44d411ce8169f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOsfGXNSqictW4\n8P+8TagXAYyE26dWJV3vVrBERSRlR5gv59IU7bkL4lTwvmsPKRtArR9I1S4MAAYK\nyryf69FxH+YVTZU15Qh5E0s+zeXlLBlMSuVIuTCvi4GzY1bh7IEe9CuwyhNK1mHj\naCmTetZUEtzM46BLSFu0f5S+cskyXbih6lWKkvlAgEhADqCNFNm2ABTb1RkUtKdL\nu/Gy03dlLYZIGmB7mFBk87d1d24mk/SQzfwaYbteVGfCDewW/pDHkb1aa0O3fLu4\nVVAsTfx5sFmio+bz+8XMBznNCMmqtFVxwfdVDKHhBLwxHeQI25r4Sh9tFPqoFj0a\nIdCbjdujAgMBAAECggEABYMhR+TyQG3RxejC6KqlHJLjkUwmMQ8+ySshTljJ1bnB\nocH2f3oNgf+pLvqPLigoUas0zovfAu8doIkNQkM5SOoB9y+sydm6geKAAXMBhviU\nqu8qIKxnZIz07KNLzoCwuth/j0DaOZgBkuXyvaJNXl0WSAffwUEmLxMEWUGdz8vm\nhVaGU/35Qh0t/wkVIt4hICOqkoVhXGrxSfoj2PQHqbco7ibsgPOfP5RxH1ltxwMw\nIbglJb/J6dAqHmK9GVvsCVbU+3AnHOslpGon3fMSOzVlQxtUitxCISKz5kYWzuTn\nGtsf0hHITXJxEqat/by4E0qlOZ+VD0n/YMA3LhH/XQKBgQDprNsuyjDD3eKYJLKA\nV/bvch+WaMIeAh65zhPQuGwpOyHJWqDEBz64UcekWO1FSK692yKRUEMzZLqHlfc7\nJzJqLDyJKIyRCul0DrVLzFQGKh1w08A1UTrxeqygU6+LhavfacehE/KZ36spXTMo\nTi8KAIlu24Azid5DhApib8qlfwKBgQDicTelcWfDIiwWTbIjgWoj9J3s4IkC03/W\nsSM8SBiPLAKXZkwai+7kw0cUOJipUTalYh//5QafXw0gHWTXZ9fmCFymvaTFMoVI\na4uduyKo8msQOT6MbZ4kKTI3fL0ZxehAeh/mnSAH7r8MADPbJSYAAdO0TazlAe5o\nFUKRIZOD3QKBgHv2nmRJEOund0D9HtDlWXOXWFiDhI9E0qYBRBPS8lZBL2BROr4j\nlctUXxO5tU2vDDxd1w29xZirFCU/kmOIHL+kbgzZPRDo+AYAk379i4mlp+6l9u6S\nBDH8wT1gh9z9cbtYs3WpTmcA+B0+exgjueKVfFMaEP3GYunwT03/PkLjAoGBAMaG\nPiQVHcRtRDu1mHUac+TcBEz1ugk5Rf4CxQKHrshu7EKyFAy+HA6ByeJHkEf5hLBQ\nK//cWgcFfWtnec6EIztwn1IsN7YPidypNPlvZH68MfNCTL0vKZNIbtdIzD05Tlqg\n9zDnFnr97I7n6o65rewZrfKImwkXvV2RLhAxYLQdAoGAB/EBtmX4RfO181cMcYJr\nauBKXhjwbkh3AlUS56NTBp8aVc+NfmgsY/ih1dV/S3OYpEd6IUYSoKlaE8Dk6UEs\nVyS8wpncCcLQNsAgio5qLI+lVudoQNvhkC2NteA+DGML4RyMejjC0GK6fZWAjMkj\nbGkMpMgampPs3HWTELRbcQo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "backend-awan-jalan@ltka-jalan.iam.gserviceaccount.com",
+  "client_id": "101333086439309199710",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/backend-awan-jalan%40ltka-jalan.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
